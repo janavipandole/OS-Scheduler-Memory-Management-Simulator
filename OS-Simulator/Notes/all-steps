@@ -1,0 +1,63 @@
+1. CPU Scheduling
+
+## important module
+
+Implement these:
+FCFS
+SJF
+Round Robin
+Priority Scheduling
+
+Har process ke liye:
+Process ID
+Arrival Time
+Burst Time
+Priority
+
+2. Memory Management
+
+## OS feel lane ke liye ye add karna mast rahega.
+
+Algorithms:
+First Fit
+Best Fit
+Worst Fit
+
+Example:
+Memory Size = 1000
+Process 1 = 200
+Process 2 = 350
+
+Output:
+Allocated using Best Fit
+Remaining Memory = 450
+
+3. Gantt Chart Output
+
+## Ye project ko visually strong banata hai.
+
+Example:
+
+| P1 | P2 | P3 | P1 |
+0    4    7   10   14
+
+Ye professor ko impress karega.
+
+4. Time Calculations
+
+Ye must hai.
+
+Calculate:
+Waiting Time
+Turnaround Time
+Completion Time
+Response Time
+
+Turnaround Time = Completion Time − Arrival Time
+
+Turnaround Time = Completion Time − Arrival Time
+
+Waiting Time = Turnaround Time − Burst Time
+
+Waiting Time = Turnaround Time − Burst Time
+
